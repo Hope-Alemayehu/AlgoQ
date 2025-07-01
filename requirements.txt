@@ -1,0 +1,11 @@
+# Core dependencies
+numpy>=1.20.0
+scipy>=1.7.0
+
+# Quantum frameworks
+qiskit>=0.34.0
+pennylane>=0.25.0
+
+# Optional but recommended for better performance
+numba>=0.54.0
+networkx>=2.6.0  # For graph-related operations
